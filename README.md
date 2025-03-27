@@ -10,10 +10,10 @@ With the growing volume of online financial transactions, identifying fraudulent
 - Scalable machine learning solutions that can be deployed in real-world fraud detection systems.
 - A foundation for AI-driven fraud prevention in the financial sector.
 
-Dataset
+### Dataset
 The dataset used for this project is the Kaggle Credit Card Fraud Detection dataset, which contains anonymized transaction details labeled as either fraudulent (Class = 1) or legitimate (Class = 0). The dataset includes 30 anonymized features, making it ideal for building robust fraud detection models:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?utm_source=chatgpt.com
 
-Models Used
+### Models Used
 - Random Forest
 - XGBoost
